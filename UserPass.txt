@@ -1,0 +1,13 @@
+
+Default User & Pass:
+
+user: beli?
+password: terimakasih
+
+Pengubahan user dan pass ada di file: /login.php
+Search = "Konfigurasi Kredensial Admin"
+
+Ubah dan sesuaikan User & Pass:
+
+ $valid_user = 'beli?';
+ $valid_pass = 'terimakasih';
